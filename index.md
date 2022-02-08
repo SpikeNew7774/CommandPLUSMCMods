@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Command+MCMOD
 
 You can use the [editor on GitHub](https://github.com/SpikeNew7774/CommandPLUSMCMods/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
